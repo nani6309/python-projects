@@ -1,0 +1,48 @@
+--------------------------------*********Welcome Home Foods Restaurent*************---------------------------------------------------
+***********************Starters Items**************************
+1 : Tandoori Chicken : 220
+2 : Chicken 65 : 250
+3 : Chicken Fry : 270
+4 : Grill : 300
+5 : Spring Rolls : 200
+6 : Paneer Tikks : 315
+7 : Cheese Balls : 215
+************************Biryani Items***************************
+8 : Chicken Dum Biryani : 250
+9 : Chicken Fry Biryani : 275
+10 : Chicken Lollipop Biryani : 265
+11 : Mutton Dum Biryani : 300
+12 : Special Chicken Biryani : 285
+13 : Special Mutton Biryani : 350
+14 : Chicken Family Pack : 500
+15 : Mutton Family Pack : 800
+********************Pizza Items**********************************
+16 : Chicken Pizza : 300
+17 : Veg Pizza : 215
+18 : Sweet Corn Pizza : 275
+19 : Veg Spicy Pizza : 265
+20 : Chicken Spicy Pizza : 315
+*********************Sandwich Items********************************
+21 : Chicken Sandwich : 250
+22 : Egg Sandwich : 215
+23 : Sea Food Sandwich : 315
+24 : Nutell Sandwich : 275
+25 : Grilled Cheese Sandwich : 325
+*********************Deserts Items********************************
+26 : Cakes : 250
+27 : Cup Cakes : 315
+28 : Muffins : 250
+29 : Cheese Cakes : 315
+30 : Brownies : 265
+*********************Burger Items**********************************
+31 : Hangry Burger : 150
+32 : Burger Hunters : 275
+33 : Cheese Burger : 175
+34 : Chicken Burger : 315
+35 : Burger Wizard : 185
+36 : Burma Burger : 315
+*********************Drink Items***********************************
+37 : Thums up : 20
+38 : Maaza : 20
+39 : Sprite : 20
+40 : Pepsi : 20
